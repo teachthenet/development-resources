@@ -1,6 +1,4 @@
 # Development Resources References
-* [News and blogs](#news-and-blogs)
-* [Directories of resources](#directories-of-resources)
 * [Game based learning](#game-based-learning)
 * [Competitions](#competitions)
 * [Interactive learning](#interactive-learning)
@@ -10,80 +8,6 @@
 
 
 ----
-
-## News and blogs
-* [Hacker News](https://news.ycombinator.com/news) The firehose of tech news
-* [DZone](https://dzone.com/links) Rankings of current tech news
-* [Programming on Flipboard](https://flipboard.com/topic/programming)
-* [Programming on MyBridge](http://www.mybridge.co/skills/software-engineering)
-
-### Javascript
-* [Web Tech News](https://twitter.com/dakaraphi/lists/web-tech-news) realtime web tech news 
-* [Twitter](https://twitter.com/search?q=javascript&src=typd) javascript [Twitter](https://twitter.com/search?src=typd&q=%23javascript) #javascript
-* [Echo JS](http://www.echojs.com) Ranked news and articles
-* [JavaScript Kicks](http://javascriptkicks.com/) Daily ranked listings of news
-* [MyBridge JS](http://www.mybridge.co/skills/javascript) Trending news and articles
-* [Javascript on Flipboard](https://flipboard.com/topic/javascript)
-* [PonyFoo](http://ponyfoo.com/) Technical articles focused on core language and tools
-* [InfoQ](https://www.infoq.com/search.action?queryString=javascript&page=1&searchOrder=date&sst=Lb4E9SbPZIVslOab) JavaScript articles on InfoQ
-* [Google Developers](https://developers.google.com/web/updates/) Google developer news
-* [SitePoint](http://www.sitepoint.com/) Technical articles with broad focus
-* [Mozilla Hacks](https://hacks.mozilla.org/articles/) Technical articles focus on emerging technology
-* [Tuts+](http://code.tutsplus.com/) Web Tech Tutorial articles
-* [Scotch.io](http://scotch.io/) Tutorials, courses and articles focus on popular libraries, platforms and tools
-* [ProgrammableWeb](http://www.programmableweb.com/) Web REST API News and directory
-
-### Periodic listings of new libraries, tools resources
-* [Code Geekz](http://codegeekz.com/)
-* [Design Posts](http://designposts.net/)
-* [CodeCondo](http://codecondo.com/)
-
-### jQuery
-* [jQuery Plugin Plus](http://jquerypluginplus.com/) jQuery plugin news
-* [jQuery Rain](http://www.jqueryrain.com/) jQuery plugin news
-* [jQuery House](http://jqueryhouse.com/) Periodic listings of interesting jQuery plugins
-
-### CSS news and articles
-* [CSS Tricks](https://css-tricks.com/) Technical blog of news and articles
-* [CSS Wizardry](http://csswizardry.com/) Technical CSS articles.  [Presentation](https://speakerdeck.com/csswizardry/css-for-software-engineers-for-css-developers)
-* [Co Drops](http://tympanus.net/codrops/) CSS articles and example widgets
-
-### Recent JS project rankings
-* [JS Org Stats](http://stats.js.org/) Daily JS project rankings on github
-* [JS Org Best](http://bestof.js.org/#/home) Categorized JS project rankings on github
-
-### Weekly in development news
-* [Hacker News](https://hn.algolia.com/?query=javascript&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Javascript mentions in past week
-* [Hacker News](https://hn.algolia.com/?query=github.io&sort=byPopularity&prefix&page=0&dateRange=pastWeek&type=story) Github project mentions in past week
-* [Pony Foo](https://ponyfoo.com/weekly/history) Trending topics web platform
-* [CSS Weekly](http://css-weekly.com/archives/)
-* [Codrops Collective](http://tympanus.net/codrops/collective/)
-* [Javascript Weekly](http://javascriptweekly.com/latest)
-* [ES.next News](http://esnextnews.com/)
-* [Web Ops Weekly](http://webopsweekly.com/latest)
-* [Node Weekly](http://nodeweekly.com/latest)
-* [Web Tools Weekly](http://webtoolsweekly.com/#archive)
-* [Totally Tooling Tears](https://medium.com/totally-tooling-tears)
-* [The Changelog](https://changelog.com/)
-
-### Video conferences and talks
-* [BocoupLLC](https://www.youtube.com/user/BocoupLLC/videos)
-* [Cascadia JS](https://www.youtube.com/user/cascadiajs/videos)
-* [ChariotSolutions](https://www.youtube.com/channel/UCELFqc_PYKA9OOA9ppT5nvg)
-* [Chaos Computer Club](https://www.youtube.com/user/mediacccde/videos)
-* [Christophe Limpalair](https://www.youtube.com/channel/UCzo_FqWUbEH0AYs0NilUWpA)
-* [Code.org](https://www.youtube.com/channel/UCJyEBMU1xVP2be1-AoGS1BA)
-* [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg/videos)
-* [Confreaks](https://www.youtube.com/user/Confreaks/videos)
-* [Connect JS](https://www.youtube.com/user/connectconfs/feed)
-* [Def Con](https://www.youtube.com/user/DEFCONConference)
-* [Devoxx 2015](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/feed)
-* [Dot Conferences](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
-* [Dzone Inc](https://www.youtube.com/channel/UC46At8VX7QpjEiGF1-TjPiw)
-* [Fitc events](https://www.youtube.com/user/fitcevents/videos)
-* [Free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-* [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
-* [Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos)
 
 ## Game based learning
 
