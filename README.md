@@ -84,36 +84,6 @@
 * [Free code camp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
 * [Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos)
-* [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
-* [GOTO Conferences](https://www.youtube.com/user/GotoConferences/videos)
-* [JavaScript Air](https://www.youtube.com/channel/UCJYTMGbtBliMSG8gadRHK2Q/feed)
-* [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos)
-* [JS Conf](https://www.youtube.com/user/jsconfeu/videos)
-* [JS Confuy](https://www.youtube.com/user/jsconfuy/videos)
-* [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg)
-* [Learn Code](https://www.youtube.com/user/learncodeacademy/videos)
-* [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
-* [Meteor](https://www.youtube.com/user/MeteorVideos/videos)
-* [NewCircle Training](https://www.youtube.com/user/MarakanaTechTV/videos)
-* [Node.js](https://www.youtube.com/channel/UCQPYJluYC_sn_Qz_XE-YbTQ/feed)
-* [Nodevember](https://www.youtube.com/user/nodevember/videos)
-* [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
-* [Reactive Conf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
-* [Source Decoded](https://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg)
-* [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw/feed)
-* [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw/feed)
-* [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
-* [YOW](https://www.youtube.com/channel/UCAvGvvEemkeX8hurdPXr7hA)
-
-## Directories of resources
-* [Libraries.io](https://libraries.io/) Open source discovery service
-* [wwwhere](http://wwwhere.io/) Categorized directory of resources and other directories
-* [Bento.io](https://www.bento.io/) Directory of learning resources
-* [Hackr.io](http://hackr.io/) Directory of learning resources
-* [Javascripting](http://www.javascripting.com/) Libraries, frameworks and plugins
-* [Awesome](https://github.com/sindresorhus/awesome) The directory of awesome lists
-* [Awesome JS](https://github.com/sorrycc/awesome-javascript) JS Awesome list
-* [AltJS](http://smurfpandey.github.io/altjs/) Languages compilers to JS
 
 ## Game based learning
 
@@ -248,34 +218,6 @@
 ## Books and references
 * [Eloquent JavaScript](http://eloquentjavascript.net/) Getting started with JS programming
 * [JavaScript Enlightenment](http://javascriptenlightenment.com/) Intermediate level introduction to JS
-* [Speaking JavaScript](http://speakingjs.com/es5/index.html) Detailed deep dive into JS language proper
-* [Exploring ES6](http://exploringjs.com/es6/) Detailed deep dive into JS ES6 language proper
-* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/) Intermediate level guide to new parts in ES6
-* [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) 
-* [Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/)
-* [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) Javascript and functional programming
-* [JavaScript Spessore](https://leanpub.com/javascript-spessore/read) In depth concepts continuing after 'JavaScript Allongé'
-* [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) A deeper understanding of how JS really works
-* [JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) Focus on less understood parts of JS
-* [Human JavaScript](http://read.humanjavascript.com/) Book of experience
-* [DOM Enlightenment](http://domenlightenment.com/) Detailed look at the DOM API's
-* [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) WebGL Shaders
-* [WebGL Fundamentals](http://webglfundamentals.org/) WebGL
-* [Front-end Developer Handbook](https://frontendmasters.gitbooks.io/front-end-handbook/content/) Learning outline
-* [Eric Elliot's Required Reading](https://github.com/ericelliott/essential-javascript-links#required-reading-online-resources) Learning outline
-* [Superhero.js](http://superherojs.com/) Learning outline
-* [Odin Project](http://www.theodinproject.com/home) Learning outline
-* [Romesguy JavaScript Links](https://papaly.com/romseguy/eg7St/JavaScript) Learning outline
-* [Thinkster](https://thinkster.io/) Self paced tutorials
-* [WebGL Fundamentals](http://webglfundamentals.org/)
-* [CSS Triggers](http://csstriggers.com/) Styles which trigger layout, paint and composite
-* [CSS Reference](http://tympanus.net/codrops/css_reference/)
-* [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
-* [JSbooks](http://jsbooks.revolunet.com/) Collection of free books
-* [DevFreeBooks](http://devfreebooks.org/) Collection of free books
-* [JavaScripture](http://www.javascripture.com/) API's with examples
 
 ## Online development environments
 * [Cloud 9](https://c9.io/) Full virtual development environment
